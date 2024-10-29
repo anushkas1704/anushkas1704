@@ -1,4 +1,4 @@
-## 💫 Hi, I'm Anushka👋
+# 💫 Hi, I'm Anushka👋
  
 ‍🎓 I'm currently an undergrad student pursuing B.Tech in Computer Science Engineering <br>🔭 I’m currently working on Frontend Development and DSA<br>👯 I’m looking to collaborate on future web development and Python projects
 
