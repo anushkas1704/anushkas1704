@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkas1704&label=Profile%20views&color=0e75b6&style=flat" alt="anushkas1704" /> </p>
 
-- 🔭 I’m currently working on **Data Analytics and projects**
+- 🔭 I’m currently working on **Data Analytics projects**
 
 - 👯 I’m looking to collaborate on **python and dev projects**
 
