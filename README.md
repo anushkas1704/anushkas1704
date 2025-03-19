@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anushka Shukla</h1>
 <h3 align="center">A passionate Software Developer from Indore,India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkas1704&label=Profile%20views&color=0e75b6&style=flat" alt="anushkas1704" /> </p>
-
 - 🔭 I’m currently working on **Data Analytics projects**
 
 - 👯 I’m looking to collaborate on **python and dev projects**
@@ -27,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushkas1704&show_icons=true&locale=en" alt="anushkas1704" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushkas1704&" alt="anushkas1704" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anushkas1704&label=Profile%20views&color=0e75b6&style=flat" alt="anushkas1704" /> </p>
