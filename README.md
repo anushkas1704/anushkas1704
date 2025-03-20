@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anushka Shukla</h1>
 <h3 align="center">A passionate Software Developer from Indore,India</h3>
-<h4 align="center">An aspiring Data Analyst</h3>
+<h4 align="center">An aspiring Data Analyst </h3>
 
 - 🔭 I’m currently working on **Data Analytics projects**
 
