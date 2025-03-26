@@ -2,13 +2,23 @@
 <h3 align="center">A passionate Software Developer from Indore,India</h3>
 <h4 align="center">An aspiring Data Analyst</h3>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+</p>
+
+
+<p align="center">
 - 🔭 I’m currently working on **Data Analytics projects**
-
+</p>
+<p align="center">
 - 👯 I’m looking to collaborate on **python and dev projects**
-
+</p>
+<p align="center">
 - 📫 How to reach me **anushka.600818@gmail.com**
-
+</p>
+<p align="center">
 - 📄 Know about my experiences [www.linkedin.com/in/anushka-shukla-1b2b43252](www.linkedin.com/in/anushka-shukla-1b2b43252)
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
