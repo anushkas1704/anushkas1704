@@ -8,13 +8,13 @@
 
 
 <p align="center">
-- 🔭 I’m currently working on **Data Analytics projects**
+- 🔭 I’m currently working on Data Analytics projects
 </p>
 <p align="center">
-- 👯 I’m looking to collaborate on **python and dev projects**
+- 👯 I’m looking to collaborate on python and dev projects
 </p>
 <p align="center">
-- 📫 How to reach me **anushka.600818@gmail.com**
+- 📫 How to reach me anushka.600818@gmail.com
 </p>
 <p align="center">
 - 📄 Know about my experiences [www.linkedin.com/in/anushka-shukla-1b2b43252](www.linkedin.com/in/anushka-shukla-1b2b43252)
