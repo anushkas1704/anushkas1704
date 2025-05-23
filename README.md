@@ -16,7 +16,7 @@
 - 📫 How to reach me anushka.600818@gmail.com
 </p>
 <p align="center">
-- 📄 Know about my experiences [www.linkedin.com/in/anushka-shukla-1b2b43252](www.linkedin.com/in/anushka-shukla-1b2b43252)
+- 📄 Know about my experiences (www.linkedin.com/in/anushka-shukla-1b2b43252)
 </p>
 
 <h3 align="left">Connect with me:</h3>
