@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anushka Shukla</h1>
 <h3 align="center">A passionate Software Developer from Indore,India</h3>
 <h4 align="center">An aspiring Data Analyst</h3>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
 </p>
