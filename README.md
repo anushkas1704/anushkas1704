@@ -1,10 +1,10 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=DaunPenn&size=45&pause=1000&color=FE7F9C&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+Anushka+Shukla!+%F0%9F%8C%BF" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=DaunPenn&size=40&pause=1000&color=FE7F9C&center=true&vCenter=true&width=800&lines=%F0%9F%91%8B+Hi%2C+I'm+Anushka+Shukla!+%F0%9F%8C%B7" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=DaunPenn&size=35&pause=1000&color=FE7F9C&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst+%7C+Python+%26+SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=DaunPenn&size=30&pause=1000&color=FE7F9C&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst+%7C+Python+%26+SQL" alt="Typing SVG" />
 </p>
 
 <p align="center">
