@@ -89,7 +89,7 @@ I'm passionate about **data analytics**, **technology**, and **problem-solving**
 
 ## 📂 Featured Projects
 
-### 📈 **Lefty Analytics**
+### 📈 **Handedness and Lifespan Analysis**
 An interactive **data storytelling dashboard** using real-world demographics to study trends in handedness.
 
 ### 🧠 **Fake News Detector**
