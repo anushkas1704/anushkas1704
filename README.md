@@ -44,6 +44,7 @@ I'm passionate about **data analytics**, **technology**, and **problem-solving**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 
 ### 🎨 UI/UX & Design
