@@ -93,16 +93,28 @@ I'm passionate about **data analytics**, **technology**, and **problem-solving**
 ## 📂 Featured Projects
 
 ### 📈 **Handedness and Lifespan Analysis**
-An interactive **data storytelling dashboard** using real-world demographics to study trends in handedness.
+An interactive **data storytelling dashboard** analyzing demographic trends in handedness and its correlation with lifespan.  
+Built with **Pandas, NumPy, and Matplotlib** for statistical insights and visualization.
 
 ### 🧠 **Fake News Detector**
-Built with **React + Flask + BERT**, this web app identifies misinformation using NLP and AI.
+A web app that detects misinformation using **NLP and AI** models like BERT.  
+Developed with **React (frontend)** and **Flask (backend)** for real-time predictions.
 
 ### 🗺️ **Brahman AI**
-A smart trip planner integrating real-time scraped data with **AI-powered itinerary generation**.
+An AI-powered **travel planner** that scrapes real-time data to generate smart itineraries.  
+Integrates **AI recommendations** with flight, hotel, and activity suggestions.
 
-### 🛠️ Aptorent – Decentralized Rental Marketplace
-a blockchain-based peer-to-peer rental platform built using **Aptos**, **NFT smart contracts**, and **Petra Wallet**. 
+### 🛠️ **Aptorent – Decentralized Rental Marketplace**
+A blockchain-based platform for **peer-to-peer rentals** of tools, cameras, and electronics.  
+Uses **Aptos, NFT smart contracts, and Petra Wallet** for secure transactions.
+
+### 🛍️ **AI Product Generator**
+An AI tool that creates a **product description** and **realistic image** from user input.  
+Built with **JavaScript, HTML/CSS, and Gemini API** for text + image generation.
+
+### 📚 **SyllabusAI – Academic Course Outline Generator**
+A web app that automates **syllabus and course plan creation** for educators.  
+Powered by **Generative AI** with a **React + Firebase** stack.
 
 ---
 
